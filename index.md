@@ -2,7 +2,7 @@
 
 | Character	| Ability 1 |	Ability 2	| Signature	| Ultimate |
 |-------|--------|---------|---------|---------|
-| ambrosia | gala | red delicious | red delicious | red delicious |
+| ![](https://img.rankedboost.com/wp-content/plugins/valorant/assets/character_icons/Phoenix.png) | gala | red delicious | red delicious | red delicious |
 | pink lady | jazz | macintosh | red delicious | red delicious |
 | honeycrisp | granny smith | fuji | red delicious | red delicious |
 
