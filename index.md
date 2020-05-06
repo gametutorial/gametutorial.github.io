@@ -1,3 +1,13 @@
+## table
+
+| Character	| Ability 1 |	Ability 2	| Signature	| Ultimate |
+|-------|--------|---------|---------|---------|
+| ambrosia | gala | red delicious | red delicious | red delicious |
+| pink lady | jazz | macintosh | red delicious | red delicious |
+| honeycrisp | granny smith | fuji | red delicious | red delicious |
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/gametutorial/gametutorial.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
